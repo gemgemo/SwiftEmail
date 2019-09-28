@@ -1,3 +1,3 @@
 # Email
 
-A description of this package.
+A new type to create emails and validate them.
